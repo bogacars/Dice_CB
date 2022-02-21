@@ -2,10 +2,8 @@
 'RCET 0265
 'Spring 22
 'Roll the dice
-'
 
-
-
+'https://github.com/bogacars/Dice_CB.
 Option Explicit On
 Option Strict On
 Module Dice
