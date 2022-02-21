@@ -1,4 +1,12 @@
-﻿Option Explicit On
+﻿'Carson Bogart
+'RCET 0265
+'Spring 22
+'Roll the dice
+'
+
+
+
+Option Explicit On
 Option Strict On
 Module Dice
 
